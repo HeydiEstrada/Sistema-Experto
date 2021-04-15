@@ -1,5 +1,5 @@
 # Sistema-Experto
-Programa de un sistema experto en cine diseñado en SWI_Prolog
+
 cine_juvenil(waar).
 cine_juvenil(bumblebee).
 
