@@ -60,5 +60,7 @@ tiene_formato(focus,imagen_real).
 tiene_formato(waar,imagen_real).
 
 igual_genero(X,Y):- es_de_genero(X,G),es_de_genero(Y,G).
+
 mismo_formato(X,Y):- tiene_formato(X,F),tiene_formato(Y,F).
+
 igual_genero_y_mismo_formato(X,Y):- es_de_genero(X,G),es_de_genero(Y,G),tiene_formato(X,F),tiene_formato(Y,F).
