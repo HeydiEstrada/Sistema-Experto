@@ -1,31 +1,47 @@
 # Sistema-Experto
 
 cine_juvenil(waar).
+
 cine_juvenil(bumblebee).
 
 cine_infantil(big_heroe).
+
 cine_infantil(the_croods).
+
 cine_infantil(inside_out).
 
 cine_familiar(modern_times).
+
 cine_familiar(interestellar).
+
 cine_familiar(whiplash).
 
 cine_adulto(amelie).
+
 cine_adulto(focus).
           
 genero(ficción).
+
 genero(aventura).
+
 genero(comedia).
+
 genero(musical).
+
 genero(drama).
+
 genero(romance).
 
 formato(tresd).
+
 formato(animación).
+
 formato(mudo).
+
 formato(sonoro).
+
 formato(imagen_real).
+
 
 es_de_genero(bumblebee,acción).
 es_de_genero(bumblebee,ficción).
