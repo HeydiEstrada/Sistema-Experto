@@ -1,13 +1,16 @@
 # Sistema-Experto
 
 cine_juvenil(waar).
+
 cine_juvenil(bumblebee).
+
 
 cine_infantil(big_heroe).
 
 cine_infantil(the_croods).
 
 cine_infantil(inside_out).
+
 
 cine_familiar(modern_times).
 
