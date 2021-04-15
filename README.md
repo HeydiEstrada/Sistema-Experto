@@ -1,7 +1,6 @@
 # Sistema-Experto
 
 cine_juvenil(waar).
-
 cine_juvenil(bumblebee).
 
 cine_infantil(big_heroe).
